@@ -1,0 +1,14 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "solidity.compileUsingRemoteVersion": "0.8.28",
+    "solidity.packageDefaultDependenciesDirectory": "node_modules",
+    "solidity.packageDefaultDependenciesContractsDirectory": "contracts",
+    "files.associations": {
+        "*.sol": "solidity"
+    },
+    "editor.semanticHighlighting.enabled": true,
+    "solidity.enabledAsYouTypeCompilationErrorCheck": true,
+    "solidity.validationDelay": 1500,
+    "solidity.linter": "solhint",
+    "solidity.formatter": "forge"
+} 

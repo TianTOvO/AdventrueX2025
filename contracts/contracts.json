@@ -1,0 +1,12 @@
+{
+  "contracts": {
+    "PoolManager": "0xb5AE1693d73de6cA78c6E5e767BDfE510B703Dd5",
+    "ProxyContract": "0xf3007729f70233d29f8c5Cb38975a6c329945211",
+    "Escrow": "0x719Be548a3499A9eB719C84F8720123f819bA43F"
+  },
+  "network": "injectiveTestnet",
+  "chainId": 1439,
+  "rpcUrl": "https://k8s.testnet.json-rpc.injective.network/",
+  "explorerUrl": "https://testnet.explorer.injective.network/",
+  "deployedAt": "2024-12-19T10:00:00.000Z"
+} 
