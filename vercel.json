@@ -8,5 +8,8 @@
   ],
   "env": {
     "NEXT_PUBLIC_CONTRACT_ADDRESSES": "@contract-addresses"
-  }
+  },
+  "rewrites": [
+    { "source": "/api(.*)", "destination": "/api" }
+  ]
 } 
